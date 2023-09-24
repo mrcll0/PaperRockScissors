@@ -1,0 +1,15 @@
+
+.gameDiv{
+    background-color: gold;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+}
+
+.gameBtn{
+    background-color: black;
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
